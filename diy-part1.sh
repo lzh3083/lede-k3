@@ -17,7 +17,7 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
-src-git k3screenctr https://github.com/lwz322/k3screenctrl_build
+
 git clone https://github.com/vernesong/OpenClash package/Openclash
 git clone https://github.com/xiaorouji/openwrt-passwall package/passwall
 git clone https://github.com/freifunk/openwrt-packages package/freifunk
