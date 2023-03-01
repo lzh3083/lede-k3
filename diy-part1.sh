@@ -22,5 +22,5 @@ src-git Openclash https://github.com/vernesong/OpenClash
 src-git PassWall https://github.com/xiaorouji/openwrt-passwall
 src-git freifunk https://github.com/freifunk/openwrt-packages.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
-src-git k3screenctrl https://github.com/lwz322/luci-app-k3screenctrl.git
-src-git k3screenctr https://github.com/lwz322/k3screenctrl_build.git
+src-git k3screenctrl https://github.com/lwz322/luci-app-k3screenctrl
+src-git k3screenctr https://github.com/lwz322/k3screenctrl_build
